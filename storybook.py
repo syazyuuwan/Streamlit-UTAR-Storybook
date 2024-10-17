@@ -62,4 +62,4 @@ if st.button("Generate"):
   st.divider()
   st.write(story)
   st.divider()
-  st.image(art)
+  st.image(at)
